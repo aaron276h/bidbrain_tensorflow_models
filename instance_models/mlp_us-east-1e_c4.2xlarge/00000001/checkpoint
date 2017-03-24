@@ -1,0 +1,2 @@
+model_checkpoint_path: "/users/aharlap/AWStraces/models-03-22-17/tensorflow-instance-models/serving_models/mlp_us-east-1e_c4.2xlarge/00000001-tmp/export"
+all_model_checkpoint_paths: "/users/aharlap/AWStraces/models-03-22-17/tensorflow-instance-models/serving_models/mlp_us-east-1e_c4.2xlarge/00000001-tmp/export"
